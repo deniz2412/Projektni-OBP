@@ -1,0 +1,11 @@
+ime,prezime,email,sifra,adresa_dostave,adresa_kupovine,broj_telefona,datum_kreiranja
+Marko,Markovic,marko@gmail.com,password,Adresa 1,Adresa 2,1234567890,2022-01-01
+Jelena,Jelic,jelena@gmail.com,password,Adresa 3,Adresa 4,0987654321,2022-02-01
+Milica,Mitic,milica@gmail.com,password,Adresa 5,Adresa 6,1212121212,2022-03-01
+Marko,Markovic,marko2@gmail.com,password,Adresa 7,Adresa 8,0909090909,2022-04-01
+Mladen,Mladenovic,mladen@gmail.com,password,Adresa 9,Adresa 10,1010101010,2022-05-01
+Nina,Nikolic,nina@gmail.com,password,Adresa 11,Adresa 12,1111111111,2022-06-01
+Petar,Petrovic,petar@gmail.com,password,Adresa 13,Adresa 14,2222222222,2022-07-01
+Luka,Lukic,luka@gmail.com,password,Adresa 15,Adresa 16,3333333333,2022-08-01
+Ana,Anic,ana@gmail.com,password,Adresa 17,Adresa 18,4444444444,2022-09-01
+Jasmina,Jasnic,jasmina@gmail.com,password,Adresa 19,Adresa 20,5555555555,2022-10-01

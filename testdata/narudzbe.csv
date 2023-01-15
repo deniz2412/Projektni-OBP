@@ -1,0 +1,11 @@
+id_korisnika,ukupno,datum_narudzbe,adresa_dostave,adresa_naplate,stanje_narudzbe
+1,1000,2022-01-01,Adresa 1,Adresa 2,Naručeno
+2,700,2022-02-01,Adresa 3,Adresa 4,Dostavlja se
+3,800,2022-03-01,Adresa 5,Adresa 6,Naručeno
+4,500,2022-04-01,Adresa 7,Adresa 8,Dostavlja se
+5,3000,2022-05-01,Adresa 9,Adresa 10,Naručeno
+6,500,2022-06-01,Adresa 11,Adresa 12,Dostavlja se
+7,50,2022-07-01,Adresa 13,Adresa 14,Naručeno
+8,20,2022-08-01,Adresa 15,Adresa 16,Dostavlja se
+9,10,2022-09-01,Adresa 17,Adresa 18,Naručeno
+10,100,2022-10-01,Adresa 19,Adresa 20,Dostavlja se
